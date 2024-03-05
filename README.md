@@ -37,7 +37,7 @@ Error handling is implemented to handle empty input fields and invalid email add
 The application can be further extended with additional regex features or improvements in the user interface.
 
 Deployment:
-The application has been deployed on the AWS Cloud to make it accessible to users remotely. Users can access the application by visiting the provided URL.(BUT AS I AM USING FREE AWS IT WOULD BE AVAILABLE FOR LONG)
+The application has been deployed on the AWS Cloud to make it accessible to users remotely. Users can access the application by visiting the provided URL.(BUT AS I AM USING FREE AWS IT WOULD NOT BE AVAILABLE FOR LONG)
 
 Technologies Used:
 Python
